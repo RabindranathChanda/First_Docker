@@ -1,5 +1,4 @@
 My first Docker Image
-
 Date: 12/11/2022 (dd/mm/yyyy) 
 -----------------------------
 
